@@ -1,6 +1,7 @@
 <?php
 /**
- * Plugin Name: HM WP.org Stats
+ * Plugin Name: WordPress WP.org Stats Widget
+ * Description: Easily pull WordPress.org stats into your WordPress Site
  * Author: Human Made Limited
  * Author URI: http://hmn.md/
  */
