@@ -8,7 +8,7 @@
 
 function hm_get_plugin_slugs() {
 
-	return apply_filters( 'hm_wporg_plugins', $plugins );
+	return apply_filters( 'hm_wporg_plugins', array( 'hello-dolly' ) );
 
 }
 
